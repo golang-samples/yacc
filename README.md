@@ -1,4 +1,4 @@
 yacc
 ====
 
-samples of go tool yacc
+Samples of go tool yacc
